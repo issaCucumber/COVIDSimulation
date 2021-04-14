@@ -11,7 +11,7 @@ To simulate how the spread of COVID can be controlled, the following parameters 
 8. Incubation period of COVID
 
 Here is the snapshot of how the simulation looks like:
-![alt text](https://drive.google.com/file/d/1LAOcNEmea90wBhnHc9vMlgmSjaHsbKRf/view?usp=sharing)
+![Alt text](./screenshot.png)
 
 In the default setting, the particles move freely within the frame. The simulation will automatically stop when the population is fully infected.
 
